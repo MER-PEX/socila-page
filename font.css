@@ -1,0 +1,18 @@
+@font-face {
+    font-family: bold;
+    src: url(./fonts/League_Spartan/static/LeagueSpartan-Bold.ttf);
+}
+@font-face {
+    font-family: mediem;
+    src: url(./fonts/League_Spartan/static/LeagueSpartan-Medium.ttf);
+}
+@font-face {
+    font-family: regular;
+    src: url(./fonts/League_Spartan/static/LeagueSpartan-Regular.ttf);
+} {
+    
+}
+@font-face {
+    font-family: SemiBold;
+    src: url(./fonts/League_Spartan/static/LeagueSpartan-SemiBold.ttf);
+}
